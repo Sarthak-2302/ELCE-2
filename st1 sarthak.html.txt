@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+</head>
+ 20px;">
+
+    <h1>Welcome to <u>My Portfolio</u></h1>
+    <p>Hello! My name is <b>Sarthak</b>. I am an aspiring <i>Web Developer</i> passionate about creating interactive and user-friendly websites.</p>
+
+    <h2>About Me</h2>
+    <p>
+        I enjoy learning new technologies and building creative web applications. 
+            </p>
+
+    <h2>Skills</h2>
+    <ol>
+        <li>HTML & CSS</li>
+        <li>JavaScript</li>
+        <li>Python</li>
+        
+    </ol>
+
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Reading tech blogs</li>
+        <li>Watching coding tutorials</li>
+        <li>Gaming</li>
+        <li>Photography</li>
+    </ul>
+
+    <h2>Education Details</h2>
+    <dl>
+        <dt><b>B-TECH </b></dt>
+        <dd>Pursuing from ABES University</dd>
+
+        <dt><b>Higher Secondary</b></dt>
+        <dd> gyaandeep School - 85% Marks</dd>
+    </dl>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>
+            Personal Portfolio Website
+            <ul>
+                <li>Technologies Used: HTML, CSS, JavaScript</li>
+                <li>Hosted on GitHub Pages</li>
+            </ul>
+        </li>
+        <li>To-Do List App</li>
+    </ul>
+
+    <h2>Mixed List Example</h2>
+    <ol>
+        <li>Frontend Skills
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+            </ul>
+        </li>
+        <li>Backend Skills
+            <ul>
+                <li>Python</li>
+                <li>Node.js</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h2>Contact Information</h2>
+    <p>
+         Email: <b><u>sarthakjain@example.com</u></b><br>
+         Phone: 98765&nbsp;43210 
+        &copy; 2025 My Portfolio. All rights reserved.
+    </p>
+
+</body>
+</html>
+
+
